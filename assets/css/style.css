@@ -1,0 +1,18 @@
+@import "./styleGeneral.css";
+@import "./styleHeader.css";
+@import "./styleMobileNav.css";
+@import "./styleHeroSection.css";
+@import "./styleFooter.css";
+@import "./styleClients.css";
+@import "./styleAboutUs.css";
+@import "./styleWhyUs.css";
+@import "./styleSkills.css";
+@import "./styleSections.css";
+@import "./styleServices.css";
+@import "./styleCta.css";
+@import "./stylePortfolio.css";
+/* @import "./styleTeam.css";
+@import "./stylePricing.css";
+@import "./styleFAQ.css";
+@import "./styleContact.css";
+@import "./styleBreadcrumbs.css"; */
