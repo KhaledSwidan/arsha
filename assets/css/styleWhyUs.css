@@ -28,7 +28,7 @@
 }
 .why-us .accordion-list li {
   padding: 20px;
-  background: #fff;
+  background: #3c4c6a;
   border-radius: 4px;
 }
 .why-us .accordion-list a {
@@ -65,7 +65,7 @@
   display: none;
 }
 .why-us .accordion-list a.collapsed {
-  color: #343a40;
+  color: #fff;
 }
 .why-us .accordion-list a.collapsed:hover {
   color: #47b2e4;
